@@ -8,3 +8,9 @@ No agronegócio, a detecção precoce de doenças em culturas é crucial para ga
 
 ## Dataset
 O dataset utilizado é o PlantVillage (disponível no Kaggle), que contém mais de 54.000 imagens de folhas de plantas. O conjunto de dados está organizado em 38 classes (pastas), onde cada classe representa uma espécie de planta e sua condição (saudável ou um tipo específico de doença). As imagens são coloridas (RGB) e de alta qualidade.
+
+## Análise Exploratória de Dados (EDA)
+A EDA foi realizada para entender a estrutura do dataset. As principais etapas incluíram:
+  -Carregamento do dataset a partir dos diretórios.
+  -Contagem e listagem das classes, confirmando um total de 38 classes.
+  -Visualização de imagens aleatórias de diferentes classes para inspecionar a variedade, iluminação e o desafio da classificação.
