@@ -91,10 +91,9 @@ O Fine-Tuning se mostrou eficaz, ajustando os pesos do modelo pré-treinado para
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/ViniMBlanco/Panda.git](https://github.com/ViniMBlanco/Panda.git)
+    git clone [https://github.com/FelipeYacobian/Panda.git](https://github.com/FelipeYacobian/Panda.git)
     cd Panda
     ```
-    *(Troque o link acima pelo link do seu repositório)*
 
 2.  **Ambiente de Desenvolvimento:**
     Este projeto foi desenvolvido utilizando **Google Colab**. Recomenda-se abrir o arquivo `.ipynb` no Google Colab para uma execução mais fácil.
