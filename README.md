@@ -107,7 +107,7 @@ O Fine-Tuning se mostrou eficaz, ajustando os pesos do modelo pré-treinado para
 
 4.  **Instale as Dependências (se estiver executando localmente):**
     ```bash
-    pip install tensorflow numpy matplotlib
+    pip install tensorflow numpy matplotlib kaggle
     ```
 
 5.  **Execute o Notebook:**
