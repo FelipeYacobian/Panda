@@ -73,9 +73,12 @@ Utilizamos o modelo **MobileNetV2** (pré-treinado no ImageNet) como base, segui
 
 Os modelos foram avaliados pela sua **Acurácia de Validação**. Os gráficos de Acurácia e Perda (Loss) ao longo das épocas foram plotados para analisar o aprendizado e o overfitting.
 
+## Resultados
+...
 | Métrica | CNN Simples (do Zero) | MobileNetV2 (Fine-Tuning) |
 | :--- | :---: | :---: |
-| Acurácia (Validação) | `[...Sua Acurácia Aqui...]` | `[...Sua Acurácia Aqui...]` |
+| Acurácia (Validação) | **93.29%** | **95.34%** |
+...
 
 Os gráficos de treinamento do MobileNetV2 (Acurácia Total e Perda Total) mostram um aprendizado estável. A linha pontilhada indica o início do Fine-Tuning, onde a acurácia de validação geralmente recebe um impulso final e a perda de validação se estabiliza em um nível muito baixo.
 
